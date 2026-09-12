@@ -149,6 +149,8 @@ Pain thật không nằm ở việc làm phép tính cộng trừ thời gian đ
 
 Bằng chứng đính kèm (nếu có): `02-group-problem-statement-survey.png`, `02-group-problem-statement-pm-critique.md`
 
+![Group Problem Statement Infographic](file:///c:/AI/vinai20k/Day02-2A202602873-ThaiPhucTien/02-group-problem-statement-infographic.png)
+
 
 ### 4.2. Research giải pháp đã có (ít nhất 2-3 tools/patterns + 1-2 link kiểm được)
 
